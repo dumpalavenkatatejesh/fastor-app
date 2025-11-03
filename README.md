@@ -37,7 +37,7 @@ It is a responsive, modern web application built using **React + Vite + Tailwind
 ---
 
 ## 📁 Folder Structure
-
+```
 fastor-app/
 │
 ├── public/
@@ -66,7 +66,7 @@ fastor-app/
 ├── tailwind.config.js
 ├── package.json
 └── README.md
-
+```
 
 ---
 
